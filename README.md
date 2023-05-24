@@ -7,7 +7,7 @@ BM-Seg: A New Bone Metastases Segmentation Dataset and Ensemble of CNN-Based Seg
 Afnouch Marwa, Olfa Gaddour, Yosr Hentati, Fares Bougourzi, Mohamed Abid, Ihsen Alouani, and Abdelmalik Taleb Ahmed
 Expert Systems with Applications (ESWA Journal)
 # Dataset
-We provide the used [Dataset]( https://BMseg_shortlink.edu) to help you understand our code and reproduce our experiment.
+We provide the used [Dataset]( [https://BMseg_shortlink.edu](https://drive.google.com/drive/folders/1T4ldxMgGlLT3ji2yEqaPNq2Ppf4sjiuz?usp=share_link)) to help you understand our code and reproduce our experiment.
 # Requirement
 Python >= 3.7
 # citation
