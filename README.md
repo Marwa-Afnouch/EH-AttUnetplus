@@ -8,6 +8,7 @@ Afnouch Marwa, Olfa Gaddour, Yosr Hentati, Fares Bougourzi, Mohamed Abid, Ihsen 
 Expert Systems with Applications (ESWA Journal)
 # Dataset
 We provide the used ([Dataset] [https://drive.google.com/drive/folders/1T4ldxMgGlLT3ji2yEqaPNq2Ppf4sjiuz?usp=share_link]) to help you understand our code and reproduce our experiment.
+We provide also the dataset with patient ([Dataset] [https://drive.google.com/file/d/1mNmpwZsV8m5L1eBv6-Rz2XIBIir1VW7V/view?usp=sharing])
 # Requirement
 Python >= 3.7
 # citation
